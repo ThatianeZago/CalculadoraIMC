@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnconvcolher">Litros para colheres de sopa</string>
+    <string name="btnmililitros">"Litros para mililitros "</string>
+    <string name="btngalao">Litros para galão</string>
+    <string name="ctxmili">Litros para ml</string>
+    <string name="ctxonca">Litros para fl. Oz</string>
+    <string name="ctxlitros">Insira valor de litros</string>
+</resources>
